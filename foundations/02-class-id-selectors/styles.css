@@ -1,0 +1,26 @@
+*{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.normal{
+    background-color: rgb(247, 142, 158);
+}
+
+#unique{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.normal.cooler{
+    font-size: 24px;
+}
+
+#another-unique{
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
+
